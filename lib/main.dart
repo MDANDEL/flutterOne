@@ -1,6 +1,5 @@
-import 'package:demo_pour_mardi/pages/page_state.dart';
 import 'package:flutter/material.dart';
-import 'pages/page_home.dart';
+import 'package:demo_pour_mardi/pages/page_calculator.dart';
 
 void main() {
   runApp(const MyApp());
